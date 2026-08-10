@@ -1,0 +1,33 @@
+.traffic-light {
+    width: 120px;
+    padding: 10px;
+    background: black;
+    margin-bottom: 20px;
+}
+
+.light {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: gray;
+    margin: 10px auto;
+}
+
+.card {
+    width: 250px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.card img {
+    width: 100%;
+}
+
+.hidden {
+    display: none;
+}
+
+.active {
+    background: green;
+    color: white;
+}

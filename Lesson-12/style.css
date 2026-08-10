@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(206, 255, 157);
+    font-family: sans-serif;
+    text-align: center;
+}
+h1 {
+color:green;
+font-family:cursive;
+font-size: 36px;
+}
+.subtitle{
+color: rgb(203, 4, 189);
+    font-family: fantasy;
+    font-size: 24px;
+}
+.content{
+    color: green;
+   font-size: 20px;
+}
+
+highlight{
+    color:orange ; 
+  font-weight:bold ;
+  font-style: italic;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Практична робота</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h2>Базовий рівень: Світлофор</h2>
+
+    <div class="traffic-light">
+        <div id="red" class="light"></div>
+        <div id="yellow" class="light"></div>
+        <div id="green" class="light"></div>
+    </div>
+
+    <button onclick="changeLight('red')">Червоний</button>
+    <button onclick="changeLight('yellow')">Жовтий</button>
+    <button onclick="changeLight('green')">Зелений</button>
+
+    <h2>Середній рівень: Інтерактивна картка товару</h2>
+
+    <div class="card">
+        <img src="https://via.placeholder.com/200" alt="Товар">
+
+        <h3>Навушники</h3>
+
+        <p id="description" class="hidden">
+            Якісні бездротові навушники.
+        </p>
+
+        <button id="detailsBtn">Детальніше</button>
+        <button id="cartBtn">Додати до кошика</button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

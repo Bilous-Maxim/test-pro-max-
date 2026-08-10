@@ -1,0 +1,65 @@
+h1{
+color:rgb(0, 106, 255) ; 
+font-size: 24px;   
+}
+
+p {
+    color:rgb(0, 30, 255);
+    font-size: 24px;
+
+}
+
+body {
+    background: linear-gradient(to right, purple, green);
+}
+
+p:hover {
+    color: green;
+}
+
+h1:hover {
+    color: green;
+}
+
+
+
+
+
+h2 {
+    color: blue;
+    transition: 0.3s;
+}
+
+h2:hover {
+    color: green;
+}
+
+
+ul {
+    color: blue;
+    transition: 0.3s;
+}
+
+ul:hover {
+    color: green;
+}
+
+
+p {
+    color: blue;
+    transition: 0.3s;
+}
+
+p:hover {
+    color: green;
+}
+
+
+
+
+
+
+
+
+
+

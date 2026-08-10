@@ -1,0 +1,28 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    color: orange;
+    font-size: 36px;
+    text-align: center;
+}
+
+h2 {
+    color: orange;
+text-align: center;
+}
+
+p {
+    color: orange;
+    text-align: center;
+}
+
+button {
+        width:100px;
+        height: 100px;
+        margin-left: 700px;
+        font-size: 20px;
+        border-radius: 40px;
+}

@@ -1,0 +1,100 @@
+.header{
+  padding: 10px 0;
+  background-color:rgb(221, 103, 82);
+
+
+ }
+ .container{
+width: 1200px;
+margin:0 auto  ;
+padding:0 15px;
+
+ }
+ .header-container,.header-container,.dough-container,.filling-container{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+
+ }
+ a{
+text-decoration: none;
+color: black;
+
+ }
+ .header-list{
+display: flex;
+
+ }
+ ul{
+list-style: none;
+margin: 0;
+padding: 0;
+
+ }
+ header-link{
+    font-size: 24px;
+    font-weight: 700;
+    color: white;
+    margin-left: 50px;
+ }
+ .hero,.filling{
+padding: 50px 0;
+
+
+ }
+ .hero-img{
+width: 550px;
+    margin-right: 50px;
+
+ }
+ .logo {
+    width: 120px;
+}
+.hero-wrap{
+display: flex;
+flex-direction: column;
+
+}
+.hero-title {
+    font-size: 48px;
+    font-weight: 700;
+    color: rgb(113, 27, 12);
+}
+
+.dough {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgb(255, 167, 123);
+}
+.dough-img,.filling-img {
+    width: 500px;
+}
+.cooking {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+
+    background-color: #ffd8a8;
+    padding: 30px;
+    margin: 40px;
+    border-radius: 20px;
+}
+
+.cooking img {
+    width: 300px;
+    border-radius: 15px;
+}
+
+.cooking-text h2 {
+    color: red;
+    font-family: cursive;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.cooking-text ol {
+    font-size: 20px;
+    color: #333;
+}

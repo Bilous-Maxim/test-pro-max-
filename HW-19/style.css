@@ -1,0 +1,21 @@
+.traffic-light {
+    width: 100px;
+    padding: 15px;
+    background-color: black;
+    border-radius: 10px;
+}
+
+.light {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: 2px solid white;
+    background-color: gray;
+    margin: 10px auto;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+}

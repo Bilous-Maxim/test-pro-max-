@@ -1,0 +1,44 @@
+body{
+  background-color: aquamarine;
+  text-align: center;
+  font-family: cursive;
+  text-transform:uppercase;
+  color: green;
+}
+
+h1{
+    font-size: 36px;
+    font-weight: bold;
+    font-style: italic;
+}
+.paragraf{
+    border-color: red;
+    border-style: solid;
+    border-width: 4px;
+}
+h2{
+    font-size: 28px;
+}
+p{
+    font-size: 24px;
+}
+
+ul{
+  margin-left: 350px;
+  font-size: 20px;
+  font-weight: bold;
+}
+li{
+    padding-left: 10px;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
